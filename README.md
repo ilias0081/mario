@@ -12,15 +12,17 @@ INSTRUCTIONS ON HOW TO USE:
 7. Save both files
 
 To play the game, run the Mario.java file 
+
 CONTROLS: 
-Start Game: Enter
-Move: Left & Right Arrow Keys
-Run: Z
-Jump: Space Bar
-Fire Ball: E
-Enter Pipe: Down Arrow Key
+- Start Game: Enter
+- Move: Left & Right Arrow Keys
+- Run: Z
+- Jump: Space Bar
+- Fire Ball: E
+- Enter Pipe: Down Arrow Key
 
 To use the level builder, run the level_builder.java file
+
 CONTROLS:
 - Insert/Delete Object: Left/Right Click
 - Select/Change Object from Menu: Left/Right Click
