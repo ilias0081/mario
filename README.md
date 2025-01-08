@@ -22,7 +22,7 @@ Enter Pipe: Down Arrow Key
 
 To use the level builder, run the level_builder.java file
 CONTROLS:
-Insert/Delete Object: Left/Right Click
-Select/Change Object from Menu: Left/Right Click
-Traverse Level: Left & Right Arrow Keys
-Print Level as 2D Array: Space Bar
+- Insert/Delete Object: Left/Right Click
+- Select/Change Object from Menu: Left/Right Click
+- Traverse Level: Left & Right Arrow Keys
+- Print Level as 2D Array: Space Bar
