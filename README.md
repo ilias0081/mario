@@ -7,8 +7,7 @@ INSTRUCTIONS ON HOW TO USE:
 3. Create a new Java project in an IDE (ideally in VSCode)
 4. Copy or move the contents from Step 2 directly into the source folder of the new Java project
 5. Open MarioPanel.java and level_builder_panel.java and navigate to lines 74 and 78 respectively
-6. In both files, make the String variable "f" equal to the full path of where your source folder of the project is
-- (ex. String f = "C:/Users/you/NewProject/src/")
+6. In both files, make the String variable "f" equal to the full path of where your source folder of the project is (ex. String f = "C:/Users/you/NewProject/src/")
 8. Save both files
 
 To play the game, run the Mario.java file 
