@@ -11,7 +11,7 @@ INSTRUCTIONS ON HOW TO USE:
    (ex. String f = "C:/Users/you/NewProject/src/")
 7. Save both files
 
-To play the game, run the Mario.java file
+To play the game, run the Mario.java file 
 CONTROLS: 
 Start Game: Enter
 Move: Left & Right Arrow Keys
