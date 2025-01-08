@@ -12,7 +12,7 @@ INSTRUCTIONS ON HOW TO USE:
 7. Save both files
 
 To play the game, run the Mario.java file
-CONTROLS:
+CONTROLS: 
 Start Game: Enter
 Move: Left & Right Arrow Keys
 Run: Z
